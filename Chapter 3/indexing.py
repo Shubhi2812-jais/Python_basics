@@ -1,0 +1,5 @@
+str1=input("Enter a user's name:")
+length=len(str1)
+print("length of character:",length)
+print("First character of name:",str1[0])
+print("Last character of name:",str1[4])
