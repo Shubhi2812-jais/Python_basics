@@ -1,0 +1,9 @@
+str="Shubhangi"
+print(str.upper())
+print(str.lower())
+print(str.title())
+print(str.find("an"))
+print(str.replace("Shubhangi","Jaiswal"))
+print(str.count("h"))
+print(str.endswith("."))
+print(str.capitalize())
